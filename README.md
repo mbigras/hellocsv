@@ -30,8 +30,6 @@ lame	meh
 68-faz	lap
 ```
 
-![](poorlyformatted.png)
-
 ```
 od -c poorlyformatted.csv
 0000000  357 273 277   l   a   m   e   ,   m   e   h  \r   1   3   -   f
@@ -63,8 +61,6 @@ od -c poorlyformatted.csv
 
 ruby format.rb poorlyformatted.csv  > better.csv
 ```
-
-![](better.png)
 
 ## Links
 
